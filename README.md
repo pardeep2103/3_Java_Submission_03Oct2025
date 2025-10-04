@@ -21,7 +21,7 @@
 | 81 | 30-Sep | Stack Characters | Practice | Stack, push, pop, peek | Stack operations with characters | 81_Stack1.java | Submitted | 03-Oct |
 | 82 | 30-Sep | TreeSet Leaderboard | Practice | TreeSet, sorted order | High scores in ascending order | 82_TreeSet1.java | Submitted | 03-Oct |
 | 83 | 30-Sep | Vector Numbers | Practice | Vector, add, set, remove | Vector operations with integer numbers | 83_Vector.java | Submitted | 03-Oct |
-| 84 | 30-Sep | Practice Exercise 6 | Practice | TBD | TBD | 84_practice.java | Submitted | 03-Oct |
+| 84 | 30-Sep | Simple Item Manager | Practice | ArrayList, Scanner, search, remove | Add items, search and remove from list | 84_practice.java | Submitted | 03-Oct |
 | 85 | 03-Oct | Sum of Digits | Practice | String operations, charAt, loops | Sum digits at same position from two numbers | 85_Sum.java | Submitted | 03-Oct |
 | 86 | 03-Oct | Sum Left-Right | Practice | String manipulation, reverse indexing | Sum digits from left and right positions | 86_Sum_Left_Right.java | Submitted | 03-Oct |
 | 87 | 03-Oct | Character Position Finder | Practice | indexOf, loops, character search | Find all positions of character in string | 87_String.java | Submitted | 03-Oct |
