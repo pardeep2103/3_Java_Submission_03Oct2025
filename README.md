@@ -28,7 +28,7 @@
 | 88 | 03-Oct | String Program | Practice | String operations | String manipulation practice | 88_String.java | Submitted | 03-Oct |
 | 89 | 03-Oct | 2D Array Operations | Practice | 2D arrays, nested loops | Display 2D array elements with loops | 89_2DArray.java | Submitted | 03-Oct |
 | 90 | 03-Oct | String Digit Letter Counter | Practice | Character validation, String parsing | Count and separate digits and letters | 90_StringDigit.java | Submitted | 03-Oct |
-| 91 | 03-Oct | Practice Exercise 7 | Practice | TBD | TBD | 91_practice.java | Submitted | 03-Oct |
+| 91 | 03-Oct | Multiplication Table | Practice | Scanner, loops, arithmetic | Print multiplication table of a number | 91_practice.java | Submitted | 03-Oct |
 | 92 | 03-Oct | Car Class (Parent) | Demo | Class design, methods, attributes | Parent class with car properties and methods | 92_Carv1.java | Submitted | 03-Oct |
 | 93 | 03-Oct | Car Child Class | Demo | Inheritance, extends keyword | Child class with additional car features | 93_Carv2.java | Submitted | 03-Oct |
 | 94 | 03-Oct | Car Main Program | Demo | Object creation, method calling | Creating car objects and calling methods | 94_Main.java | Submitted | 03-Oct |
