@@ -40,5 +40,5 @@
 
 **Summary:**
 - Total Submissions: 33 (from 65 to 97)
-- Demo Programs: 6
-- Practice Exercises: 27
+- Demo Programs: 9
+- Practice Exercises: 24
